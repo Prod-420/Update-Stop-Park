@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+ <sharpUpdate>
+
+            <update>
+                <version>1.2</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Stop-Park/main/Platej.dll</url>
+                <filePath>Platej.dll</filePath>
+                <md5>5b82e8b8fcf2e7de02d45f4f365890ff</md5>
+                <description>blob</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+</sharpUpdate>
