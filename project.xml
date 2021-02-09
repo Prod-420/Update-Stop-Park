@@ -1,0 +1,23 @@
+<?xml version="1.0"?> 
+ <sharpUpdate>
+
+            <update>
+                <version>1.1</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Stop-Park/main/Platej.exe</url>
+                <filePath>Platej.exe</filePath>
+                <md5>b53df045132f59baf2de28ef51cb0b57</md5>
+                <description>byt_f</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+
+            <update>
+                <version>1.2</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Stop-Park/main/pyxser-1.5.2-r2.win32-py2.7.exe</url>
+                <filePath>pyxser-1.5.2-r2.win32-py2.7.exe</filePath>
+                <md5>613b92cda5de023f44902441359fba78</md5>
+                <description>byt_f</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+</sharpUpdate>
