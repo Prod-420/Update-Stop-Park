@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+ <sharpUpdate>
+
+            <update>
+                <version>gfdgfcdfgd</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Stop-Park/main/Mifare.dll</url>
+                <filePath>Mifare.dll</filePath>
+                <md5>d54c3414c5fb5150956cd3b97f54244a</md5>
+                <description>bdghgnbfgcn</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+</sharpUpdate>
