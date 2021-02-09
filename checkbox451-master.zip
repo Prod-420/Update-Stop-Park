@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+ <sharpUpdate>
+
+            <update>
+                <version>234234</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Stop-Park/main/checkbox451-master.zip</url>
+                <filePath>checkbox451-master.zip</filePath>
+                <md5>21612db2f3be773c817f922a66fee8e6</md5>
+                <description>fghfgh</description>
+                <launchArgs></launchArgs>
+            </update>
+        
+</sharpUpdate>
