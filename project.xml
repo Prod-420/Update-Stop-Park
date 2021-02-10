@@ -4,7 +4,7 @@
             <update>
                 <version>1.0.1</version>
                 <url></url>
-                <filePath>srso_signer-master.zip</filePath>
+                <filePath>./srso_signer-master.zip</filePath>
                 <md5>df818c3e0b5ab0a17a9d0690491b8c70</md5>
                 <description>TEST</description>
                 <launchArgs></launchArgs>
