@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+ <sharpUpdate>
+
+            <update>
+                <version>1.4</version>
+                <url>https://raw.githubusercontent.com/Prod-420/Update-Stop-Park/main/stoppark.zip</url>
+                <filePath>./stoppark.zip</filePath>
+                <md5>d11c5b18fd83ad1e98e5cf17d1a00826</md5>
+                <description></description>
+                <launchArgs></launchArgs>
+            </update>
+        
+</sharpUpdate>
